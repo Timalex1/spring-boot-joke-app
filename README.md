@@ -1,2 +1,2 @@
-# spring-boot-joke-app
+# springboot-joke-app
 A Spring boot app for Jokes display
